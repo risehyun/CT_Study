@@ -22,10 +22,16 @@
     <Filter Include="Programmers\고득점Kit\해시">
       <UniqueIdentifier>{16223ea1-4187-45a5-90a4-88a55946e2a5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="BOJ">
+      <UniqueIdentifier>{c6c82f11-e555-4eb9-8ab8-bfe8701c002b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Hash_01.cpp">
       <Filter>Programmers\고득점Kit\해시</Filter>
+    </ClCompile>
+    <ClCompile Include="9095.cpp">
+      <Filter>BOJ</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
