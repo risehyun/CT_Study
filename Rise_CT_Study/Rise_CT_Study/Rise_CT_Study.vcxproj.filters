@@ -37,6 +37,9 @@
     <Filter Include="BOJ\PT">
       <UniqueIdentifier>{8f6bc9ab-9608-4bcb-b887-7cb47bd60c44}</UniqueIdentifier>
     </Filter>
+    <Filter Include="BOJ\BKD\BKD_01">
+      <UniqueIdentifier>{145d244e-ab40-4373-9fb5-0cea5d9d00f6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Hash_01.cpp">
@@ -47,6 +50,21 @@
     </ClCompile>
     <ClCompile Include="RE%299095.cpp">
       <Filter>BOJ\RPT</Filter>
+    </ClCompile>
+    <ClCompile Include="EX_1.cpp">
+      <Filter>BOJ\BKD\BKD_01</Filter>
+    </ClCompile>
+    <ClCompile Include="EX_2.cpp">
+      <Filter>BOJ\BKD\BKD_01</Filter>
+    </ClCompile>
+    <ClCompile Include="EX_3.cpp">
+      <Filter>BOJ\BKD\BKD_01</Filter>
+    </ClCompile>
+    <ClCompile Include="EX_4.cpp">
+      <Filter>BOJ\BKD\BKD_01</Filter>
+    </ClCompile>
+    <ClCompile Include="2752.cpp">
+      <Filter>BOJ\BKD\BKD_02</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
