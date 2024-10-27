@@ -66,5 +66,8 @@
     <ClCompile Include="2752.cpp">
       <Filter>BOJ\BKD\BKD_02</Filter>
     </ClCompile>
+    <ClCompile Include="2490.cpp">
+      <Filter>BOJ\BKD\BKD_02</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
