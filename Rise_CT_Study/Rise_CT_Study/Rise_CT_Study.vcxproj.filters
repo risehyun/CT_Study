@@ -69,5 +69,17 @@
     <ClCompile Include="2490.cpp">
       <Filter>BOJ\BKD\BKD_02</Filter>
     </ClCompile>
+    <ClCompile Include="2490_2.cpp">
+      <Filter>BOJ\BKD\BKD_02</Filter>
+    </ClCompile>
+    <ClCompile Include="2576.cpp">
+      <Filter>BOJ\BKD\BKD_02</Filter>
+    </ClCompile>
+    <ClCompile Include="2576_2.cpp">
+      <Filter>BOJ\BKD\BKD_02</Filter>
+    </ClCompile>
+    <ClCompile Include="1267.cpp">
+      <Filter>BOJ\BKD\BKD_02</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
