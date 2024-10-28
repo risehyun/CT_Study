@@ -5,7 +5,8 @@ int a[1000001] = {};
 bool occur[2000001];
 int n, x;
 
-int main(void) {
+int main(void) 
+{
     ios::sync_with_stdio(0);
     cin.tie(0);
 
@@ -14,7 +15,8 @@ int main(void) {
     for (int i = 0; i < n; i++) cin >> a[i];
     cin >> x;
 
-    for (int i = 0; i < n; i++) {
+    for (int i = 0; i < n; i++) 
+    {
         int value = x - a[i];
         if (value > 0 && occur[value]) ans++;
         occur[a[i]] = true;
