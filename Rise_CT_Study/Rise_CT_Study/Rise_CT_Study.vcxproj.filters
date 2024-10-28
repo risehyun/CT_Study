@@ -13,73 +13,109 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Programmers">
-      <UniqueIdentifier>{a7184b07-ec61-4013-b2da-c02832ac96f5}</UniqueIdentifier>
+    <Filter Include="00.Study">
+      <UniqueIdentifier>{c46b0510-4ece-45fa-b19f-5833119b1d60}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Programmers\고득점Kit">
-      <UniqueIdentifier>{096febaf-25f5-4d70-967b-74fe60475a9e}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Programmers\고득점Kit\해시">
-      <UniqueIdentifier>{16223ea1-4187-45a5-90a4-88a55946e2a5}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="BOJ">
-      <UniqueIdentifier>{c6c82f11-e555-4eb9-8ab8-bfe8701c002b}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="BOJ\BKD">
+    <Filter Include="00.Study\BKD">
       <UniqueIdentifier>{61665197-7424-42ce-afd1-282185b0d432}</UniqueIdentifier>
     </Filter>
-    <Filter Include="BOJ\BKD\BKD_02">
+    <Filter Include="00.Study\BKD\BKD_02_기초코드작성요령2">
       <UniqueIdentifier>{06567be2-dc33-4ebe-bb7b-f08913f61b8b}</UniqueIdentifier>
     </Filter>
-    <Filter Include="BOJ\RPT">
+    <Filter Include="00.Study\BKD\BKD_03">
+      <UniqueIdentifier>{eed4261d-735e-4f2b-873f-8abb351c376c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00.Study\BKD\BKD_03\예제">
+      <UniqueIdentifier>{fbed9cdf-536b-4f1a-8a65-f42d113d5518}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.PS">
+      <UniqueIdentifier>{5fb986ee-1ded-4099-8e4e-289e43b5ccfe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.PS\01.BOJ">
+      <UniqueIdentifier>{c6c82f11-e555-4eb9-8ab8-bfe8701c002b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.PS\01.BOJ\RPT">
       <UniqueIdentifier>{7a1310da-e6bb-4c6a-a7d9-ff8795f90bd1}</UniqueIdentifier>
     </Filter>
-    <Filter Include="BOJ\PT">
+    <Filter Include="01.PS\01.BOJ\PT">
       <UniqueIdentifier>{8f6bc9ab-9608-4bcb-b887-7cb47bd60c44}</UniqueIdentifier>
     </Filter>
-    <Filter Include="BOJ\BKD\BKD_01">
+    <Filter Include="01.PS\02.Programmers">
+      <UniqueIdentifier>{a7184b07-ec61-4013-b2da-c02832ac96f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.PS\02.Programmers\고득점Kit">
+      <UniqueIdentifier>{096febaf-25f5-4d70-967b-74fe60475a9e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.PS\02.Programmers\고득점Kit\해시">
+      <UniqueIdentifier>{16223ea1-4187-45a5-90a4-88a55946e2a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00.Study\BKD\BKD_02_기초코드작성요령2\문풀">
+      <UniqueIdentifier>{9871f9a0-099f-4ca3-baa3-8991485bc1ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00.Study\BKD\BKD_01_기초코드작성요령1%28완%29">
       <UniqueIdentifier>{145d244e-ab40-4373-9fb5-0cea5d9d00f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00.Study\BKD\BKD_01_기초코드작성요령1%28완%29\예제">
+      <UniqueIdentifier>{6b474cf3-707f-4b82-af10-2955b8c05a6c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00.Study\BKD\BKD_03\문풀">
+      <UniqueIdentifier>{f06bd045-0725-4a67-8069-e658e9d8c71f}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Hash_01.cpp">
-      <Filter>Programmers\고득점Kit\해시</Filter>
-    </ClCompile>
-    <ClCompile Include="10093.cpp">
-      <Filter>BOJ\BKD\BKD_02</Filter>
+      <Filter>01.PS\02.Programmers\고득점Kit\해시</Filter>
     </ClCompile>
     <ClCompile Include="RE%299095.cpp">
-      <Filter>BOJ\RPT</Filter>
+      <Filter>01.PS\01.BOJ\RPT</Filter>
     </ClCompile>
-    <ClCompile Include="EX_1.cpp">
-      <Filter>BOJ\BKD\BKD_01</Filter>
+    <ClCompile Include="EX1_1.cpp">
+      <Filter>00.Study\BKD\BKD_01_기초코드작성요령1%28완%29\예제</Filter>
     </ClCompile>
-    <ClCompile Include="EX_2.cpp">
-      <Filter>BOJ\BKD\BKD_01</Filter>
+    <ClCompile Include="EX1_2.cpp">
+      <Filter>00.Study\BKD\BKD_01_기초코드작성요령1%28완%29\예제</Filter>
     </ClCompile>
-    <ClCompile Include="EX_3.cpp">
-      <Filter>BOJ\BKD\BKD_01</Filter>
+    <ClCompile Include="EX1_3.cpp">
+      <Filter>00.Study\BKD\BKD_01_기초코드작성요령1%28완%29\예제</Filter>
     </ClCompile>
-    <ClCompile Include="EX_4.cpp">
-      <Filter>BOJ\BKD\BKD_01</Filter>
+    <ClCompile Include="EX1_4.cpp">
+      <Filter>00.Study\BKD\BKD_01_기초코드작성요령1%28완%29\예제</Filter>
     </ClCompile>
-    <ClCompile Include="2752.cpp">
-      <Filter>BOJ\BKD\BKD_02</Filter>
-    </ClCompile>
-    <ClCompile Include="2490.cpp">
-      <Filter>BOJ\BKD\BKD_02</Filter>
-    </ClCompile>
-    <ClCompile Include="2490_2.cpp">
-      <Filter>BOJ\BKD\BKD_02</Filter>
-    </ClCompile>
-    <ClCompile Include="2576.cpp">
-      <Filter>BOJ\BKD\BKD_02</Filter>
-    </ClCompile>
-    <ClCompile Include="2576_2.cpp">
-      <Filter>BOJ\BKD\BKD_02</Filter>
+    <ClCompile Include="array_test.cpp">
+      <Filter>00.Study\BKD\BKD_03\예제</Filter>
     </ClCompile>
     <ClCompile Include="1267.cpp">
-      <Filter>BOJ\BKD\BKD_02</Filter>
+      <Filter>00.Study\BKD\BKD_02_기초코드작성요령2\문풀</Filter>
+    </ClCompile>
+    <ClCompile Include="2490.cpp">
+      <Filter>00.Study\BKD\BKD_02_기초코드작성요령2\문풀</Filter>
+    </ClCompile>
+    <ClCompile Include="2490_2.cpp">
+      <Filter>00.Study\BKD\BKD_02_기초코드작성요령2\문풀</Filter>
+    </ClCompile>
+    <ClCompile Include="2576.cpp">
+      <Filter>00.Study\BKD\BKD_02_기초코드작성요령2\문풀</Filter>
+    </ClCompile>
+    <ClCompile Include="2576_2.cpp">
+      <Filter>00.Study\BKD\BKD_02_기초코드작성요령2\문풀</Filter>
+    </ClCompile>
+    <ClCompile Include="2752.cpp">
+      <Filter>00.Study\BKD\BKD_02_기초코드작성요령2\문풀</Filter>
+    </ClCompile>
+    <ClCompile Include="10093.cpp">
+      <Filter>00.Study\BKD\BKD_02_기초코드작성요령2\문풀</Filter>
+    </ClCompile>
+    <ClCompile Include="10871.cpp">
+      <Filter>00.Study\BKD\BKD_02_기초코드작성요령2\문풀</Filter>
+    </ClCompile>
+    <ClCompile Include="EX2_1.cpp">
+      <Filter>00.Study\BKD\BKD_03\예제</Filter>
+    </ClCompile>
+    <ClCompile Include="1475.cpp">
+      <Filter>00.Study\BKD\BKD_03\문풀</Filter>
+    </ClCompile>
+    <ClCompile Include="1475_2.cpp">
+      <Filter>00.Study\BKD\BKD_03\문풀</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
