@@ -117,5 +117,8 @@
     <ClCompile Include="1475_2.cpp">
       <Filter>00.Study\BKD\BKD_03\문풀</Filter>
     </ClCompile>
+    <ClCompile Include="3273.cpp">
+      <Filter>00.Study\BKD\BKD_03\문풀</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
