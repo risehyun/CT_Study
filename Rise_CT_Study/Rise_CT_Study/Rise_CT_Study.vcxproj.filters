@@ -79,6 +79,15 @@
     <Filter Include="00.Study\BKD\BKD_05_스택\문풀">
       <UniqueIdentifier>{18a4ffe0-86db-446a-b8b5-d815547f3296}</UniqueIdentifier>
     </Filter>
+    <Filter Include="00.Study\BKD\BKD_06_큐">
+      <UniqueIdentifier>{b6c0087d-b38c-47df-92d0-39b8cb675b79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00.Study\BKD\BKD_06_큐\문풀">
+      <UniqueIdentifier>{f386fc3e-9051-453b-842c-8c61a1892e33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00.Study\BKD\BKD_06_큐\예제">
+      <UniqueIdentifier>{30f37289-7a9d-4baa-8c18-5109bab0c78f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Hash_01.cpp">
@@ -167,6 +176,15 @@
     </ClCompile>
     <ClCompile Include="6198.cpp">
       <Filter>00.Study\BKD\BKD_05_스택\문풀</Filter>
+    </ClCompile>
+    <ClCompile Include="EX6_1.cpp">
+      <Filter>00.Study\BKD\BKD_06_큐\예제</Filter>
+    </ClCompile>
+    <ClCompile Include="10845.cpp">
+      <Filter>00.Study\BKD\BKD_06_큐\문풀</Filter>
+    </ClCompile>
+    <ClCompile Include="1159.cpp">
+      <Filter>01.PS\01.BOJ\PT</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
