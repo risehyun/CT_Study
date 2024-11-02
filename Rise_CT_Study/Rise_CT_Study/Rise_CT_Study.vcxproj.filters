@@ -186,5 +186,11 @@
     <ClCompile Include="1159.cpp">
       <Filter>01.PS\01.BOJ\PT</Filter>
     </ClCompile>
+    <ClCompile Include="18258.cpp">
+      <Filter>00.Study\BKD\BKD_06_큐\문풀</Filter>
+    </ClCompile>
+    <ClCompile Include="2164.cpp">
+      <Filter>00.Study\BKD\BKD_06_큐\문풀</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
