@@ -207,5 +207,8 @@
     <ClCompile Include="10866_2.cpp">
       <Filter>00.Study\BKD\BKD_07_덱\예제</Filter>
     </ClCompile>
+    <ClCompile Include="1021.cpp">
+      <Filter>00.Study\BKD\BKD_07_덱\문풀</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
