@@ -8,12 +8,14 @@ int main()
 {
     ios::sync_with_stdio(0);
     cin.tie(0);
-    int n; 
+
+    int n = 0; 
     stack<e> S;
 
     cin >> n;
 
     long long ans = 0;
+
     while (n--) 
     {
         int x = 0; 

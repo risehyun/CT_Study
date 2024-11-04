@@ -228,5 +228,8 @@
     <ClCompile Include="3015.cpp">
       <Filter>00.Study\BKD\BKD_05_스택\문풀</Filter>
     </ClCompile>
+    <ClCompile Include="6549.cpp">
+      <Filter>00.Study\BKD\BKD_05_스택\문풀</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
