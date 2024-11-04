@@ -88,13 +88,13 @@
     <Filter Include="00.Study\BKD\BKD_06_큐%28완%29\예제">
       <UniqueIdentifier>{30f37289-7a9d-4baa-8c18-5109bab0c78f}</UniqueIdentifier>
     </Filter>
-    <Filter Include="00.Study\BKD\BKD_07_덱">
+    <Filter Include="00.Study\BKD\BKD_07_덱%28완%29">
       <UniqueIdentifier>{1402a02c-aa04-4aa5-87bf-7ddfd01f79d8}</UniqueIdentifier>
     </Filter>
-    <Filter Include="00.Study\BKD\BKD_07_덱\예제">
+    <Filter Include="00.Study\BKD\BKD_07_덱%28완%29\예제">
       <UniqueIdentifier>{03f431c4-c101-447a-aa73-db6100023626}</UniqueIdentifier>
     </Filter>
-    <Filter Include="00.Study\BKD\BKD_07_덱\문풀">
+    <Filter Include="00.Study\BKD\BKD_07_덱%28완%29\문풀">
       <UniqueIdentifier>{7013e102-e8db-452d-ab72-8dc829715ccb}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
@@ -202,19 +202,22 @@
       <Filter>00.Study\BKD\BKD_06_큐%28완%29\문풀</Filter>
     </ClCompile>
     <ClCompile Include="10866_1.cpp">
-      <Filter>00.Study\BKD\BKD_07_덱\예제</Filter>
+      <Filter>00.Study\BKD\BKD_07_덱%28완%29\예제</Filter>
     </ClCompile>
     <ClCompile Include="10866_2.cpp">
-      <Filter>00.Study\BKD\BKD_07_덱\예제</Filter>
+      <Filter>00.Study\BKD\BKD_07_덱%28완%29\예제</Filter>
     </ClCompile>
     <ClCompile Include="1021.cpp">
-      <Filter>00.Study\BKD\BKD_07_덱\문풀</Filter>
+      <Filter>00.Study\BKD\BKD_07_덱%28완%29\문풀</Filter>
     </ClCompile>
     <ClCompile Include="5430.cpp">
-      <Filter>00.Study\BKD\BKD_07_덱\문풀</Filter>
+      <Filter>00.Study\BKD\BKD_07_덱%28완%29\문풀</Filter>
     </ClCompile>
     <ClCompile Include="11003.cpp">
-      <Filter>00.Study\BKD\BKD_07_덱\문풀</Filter>
+      <Filter>00.Study\BKD\BKD_07_덱%28완%29\문풀</Filter>
+    </ClCompile>
+    <ClCompile Include="10773.cpp">
+      <Filter>00.Study\BKD\BKD_05_스택\문풀</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
