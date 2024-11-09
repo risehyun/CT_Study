@@ -237,5 +237,8 @@
     <ClCompile Include="3986.cpp">
       <Filter>00.Study\BKD\BKD_02_기초코드작성요령2\문풀</Filter>
     </ClCompile>
+    <ClCompile Include="2443.cpp">
+      <Filter>00.Study\BKD\BKD_02_기초코드작성요령2\문풀</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
