@@ -12,7 +12,7 @@ int main()
     while (true)
     {
         int flag = 0;
-        stack<char> s;  // stack에는 괄호 문자를 넣어야 하므로 타입을 'int'가 아닌 'char'로 변경
+        stack<char> s; 
 
         string input = "";
         getline(cin, input);  // 전체 입력을 받는다. '.'도 포함된다.
@@ -20,12 +20,6 @@ int main()
         if (input == ".")  // 입력이 온점(.)만 있을 경우 종료
         {
             break;
-        }
-
-        // 온점을 마지막에 포함하지 않도록 제거
-        if (input.back() == '.')
-        {
-            input.pop_back();  // 마지막 온점 제거
         }
 
         // 입력 문자열에서 괄호에 대한 처리를 시작

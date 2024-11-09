@@ -100,6 +100,9 @@
     <Filter Include="00.Study\BKD\BKD_08_스택괄호쌍">
       <UniqueIdentifier>{e42df3f5-f3cb-4162-8e96-22e7e818e791}</UniqueIdentifier>
     </Filter>
+    <Filter Include="00.Study\BKD\BKD_08_스택괄호쌍\문풀">
+      <UniqueIdentifier>{ce3a4d23-9eb8-4b17-b831-05d6d23bc92a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Hash_01.cpp">
@@ -237,14 +240,17 @@
     <ClCompile Include="2441.cpp">
       <Filter>00.Study\BKD\BKD_02_기초코드작성요령2\문풀</Filter>
     </ClCompile>
-    <ClCompile Include="3986.cpp">
-      <Filter>00.Study\BKD\BKD_02_기초코드작성요령2\문풀</Filter>
-    </ClCompile>
     <ClCompile Include="2443.cpp">
       <Filter>00.Study\BKD\BKD_02_기초코드작성요령2\문풀</Filter>
     </ClCompile>
     <ClCompile Include="4949.cpp">
-      <Filter>00.Study\BKD\BKD_08_스택괄호쌍</Filter>
+      <Filter>00.Study\BKD\BKD_08_스택괄호쌍\문풀</Filter>
+    </ClCompile>
+    <ClCompile Include="3986.cpp">
+      <Filter>00.Study\BKD\BKD_08_스택괄호쌍\문풀</Filter>
+    </ClCompile>
+    <ClCompile Include="9012.cpp">
+      <Filter>00.Study\BKD\BKD_08_스택괄호쌍\문풀</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
