@@ -97,6 +97,9 @@
     <Filter Include="00.Study\BKD\BKD_07_덱%28완%29\문풀">
       <UniqueIdentifier>{7013e102-e8db-452d-ab72-8dc829715ccb}</UniqueIdentifier>
     </Filter>
+    <Filter Include="00.Study\BKD\BKD_08_스택괄호쌍">
+      <UniqueIdentifier>{e42df3f5-f3cb-4162-8e96-22e7e818e791}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Hash_01.cpp">
@@ -239,6 +242,9 @@
     </ClCompile>
     <ClCompile Include="2443.cpp">
       <Filter>00.Study\BKD\BKD_02_기초코드작성요령2\문풀</Filter>
+    </ClCompile>
+    <ClCompile Include="4949.cpp">
+      <Filter>00.Study\BKD\BKD_08_스택괄호쌍</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
