@@ -252,5 +252,11 @@
     <ClCompile Include="9012.cpp">
       <Filter>00.Study\BKD\BKD_08_스택괄호쌍\문풀</Filter>
     </ClCompile>
+    <ClCompile Include="10799.cpp">
+      <Filter>00.Study\BKD\BKD_08_스택괄호쌍\문풀</Filter>
+    </ClCompile>
+    <ClCompile Include="2504.cpp">
+      <Filter>00.Study\BKD\BKD_08_스택괄호쌍\문풀</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
