@@ -1,6 +1,7 @@
 #include <iostream>
 #include <queue>
 using namespace std;
+
 #define X first
 #define Y second
 int board[502][502];
@@ -16,6 +17,7 @@ int main()
 
 	cin >> n >> m;
 
+	// 기본 입력
 	for (int i = 0; i < n; i++)
 	{
 		for (int j = 0; j < m; j++)
@@ -31,7 +33,7 @@ int main()
 	{
 		for (int j = 0; j < m; j++)
 		{
-			if (board[i][j] == 0 || vis[i][j])
+			if (board[i][j] == 0 || vis[i][j] == 1)
 			{
 				continue;
 			}
