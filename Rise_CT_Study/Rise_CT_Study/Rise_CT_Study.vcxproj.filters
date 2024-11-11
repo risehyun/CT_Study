@@ -97,11 +97,20 @@
     <Filter Include="00.Study\BKD\BKD_07_덱%28완%29\문풀">
       <UniqueIdentifier>{7013e102-e8db-452d-ab72-8dc829715ccb}</UniqueIdentifier>
     </Filter>
-    <Filter Include="00.Study\BKD\BKD_08_스택괄호쌍">
+    <Filter Include="00.Study\BKD\BKD_08_스택괄호쌍%28완%29">
       <UniqueIdentifier>{e42df3f5-f3cb-4162-8e96-22e7e818e791}</UniqueIdentifier>
     </Filter>
-    <Filter Include="00.Study\BKD\BKD_08_스택괄호쌍\문풀">
+    <Filter Include="00.Study\BKD\BKD_08_스택괄호쌍%28완%29\문풀">
       <UniqueIdentifier>{ce3a4d23-9eb8-4b17-b831-05d6d23bc92a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00.Study\BKD\BKD_09_BFS">
+      <UniqueIdentifier>{b23ab5b8-8df9-44b8-9b56-b95f7e06f8cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00.Study\BKD\BKD_09_BFS\문풀">
+      <UniqueIdentifier>{ba57d9ef-bf44-453d-801d-5d74c97a9fe1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00.Study\BKD\BKD_09_BFS\예제">
+      <UniqueIdentifier>{384af664-e3fa-4d8f-b017-ab85e730920a}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -244,19 +253,25 @@
       <Filter>00.Study\BKD\BKD_02_기초코드작성요령2\문풀</Filter>
     </ClCompile>
     <ClCompile Include="4949.cpp">
-      <Filter>00.Study\BKD\BKD_08_스택괄호쌍\문풀</Filter>
+      <Filter>00.Study\BKD\BKD_08_스택괄호쌍%28완%29\문풀</Filter>
     </ClCompile>
     <ClCompile Include="3986.cpp">
-      <Filter>00.Study\BKD\BKD_08_스택괄호쌍\문풀</Filter>
+      <Filter>00.Study\BKD\BKD_08_스택괄호쌍%28완%29\문풀</Filter>
     </ClCompile>
     <ClCompile Include="9012.cpp">
-      <Filter>00.Study\BKD\BKD_08_스택괄호쌍\문풀</Filter>
+      <Filter>00.Study\BKD\BKD_08_스택괄호쌍%28완%29\문풀</Filter>
     </ClCompile>
     <ClCompile Include="10799.cpp">
-      <Filter>00.Study\BKD\BKD_08_스택괄호쌍\문풀</Filter>
+      <Filter>00.Study\BKD\BKD_08_스택괄호쌍%28완%29\문풀</Filter>
     </ClCompile>
     <ClCompile Include="2504.cpp">
-      <Filter>00.Study\BKD\BKD_08_스택괄호쌍\문풀</Filter>
+      <Filter>00.Study\BKD\BKD_08_스택괄호쌍%28완%29\문풀</Filter>
+    </ClCompile>
+    <ClCompile Include="1926.cpp">
+      <Filter>00.Study\BKD\BKD_09_BFS\문풀</Filter>
+    </ClCompile>
+    <ClCompile Include="EX_9.cpp">
+      <Filter>00.Study\BKD\BKD_09_BFS\예제</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
