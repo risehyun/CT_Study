@@ -112,6 +112,9 @@
     <Filter Include="00.Study\BKD\BKD_09_BFS\예제">
       <UniqueIdentifier>{384af664-e3fa-4d8f-b017-ab85e730920a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="02.GM">
+      <UniqueIdentifier>{4e8ea758-7a53-4a1f-bfb1-82bc80f93ac8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Hash_01.cpp">
@@ -278,6 +281,30 @@
     </ClCompile>
     <ClCompile Include="7576.cpp">
       <Filter>00.Study\BKD\BKD_09_BFS\문풀</Filter>
+    </ClCompile>
+    <ClCompile Include="4179.cpp">
+      <Filter>00.Study\BKD\BKD_09_BFS\문풀</Filter>
+    </ClCompile>
+    <ClCompile Include="1697.cpp">
+      <Filter>00.Study\BKD\BKD_09_BFS\문풀</Filter>
+    </ClCompile>
+    <ClCompile Include="1012.cpp">
+      <Filter>00.Study\BKD\BKD_09_BFS\문풀</Filter>
+    </ClCompile>
+    <ClCompile Include="10026.cpp">
+      <Filter>00.Study\BKD\BKD_09_BFS\문풀</Filter>
+    </ClCompile>
+    <ClCompile Include="7569.cpp">
+      <Filter>00.Study\BKD\BKD_09_BFS\문풀</Filter>
+    </ClCompile>
+    <ClCompile Include="7562.cpp">
+      <Filter>00.Study\BKD\BKD_09_BFS\문풀</Filter>
+    </ClCompile>
+    <ClCompile Include="5427.cpp">
+      <Filter>00.Study\BKD\BKD_09_BFS\문풀</Filter>
+    </ClCompile>
+    <ClCompile Include="CH3_1.cpp">
+      <Filter>02.GM</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

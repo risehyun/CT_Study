@@ -70,7 +70,7 @@ int main()
 	{
 		for (int j = 0; j < m; j++) 
 		{
-			if (box[i][j] == -1) 
+			if (dist[i][j] == -1) 
 			{
 				cout << -1 << '\n';
 				return 0;
