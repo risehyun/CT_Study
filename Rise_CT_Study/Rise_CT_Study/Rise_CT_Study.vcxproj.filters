@@ -330,5 +330,11 @@
     <ClCompile Include="1629.cpp">
       <Filter>00.Study\BKD\BKD_10_재귀</Filter>
     </ClCompile>
+    <ClCompile Include="CH3_2_3.cpp">
+      <Filter>02.GM</Filter>
+    </ClCompile>
+    <ClCompile Include="CH3_2_4.cpp">
+      <Filter>02.GM</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
