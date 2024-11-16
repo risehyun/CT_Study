@@ -121,6 +121,9 @@
     <Filter Include="00.Study\BKD\BKD_10_재귀\예제">
       <UniqueIdentifier>{10dc87e7-b85d-498e-a155-e7c865b3e574}</UniqueIdentifier>
     </Filter>
+    <Filter Include="02.GM\ch3">
+      <UniqueIdentifier>{127d71af-9699-4a48-9966-6e87ceceda11}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Hash_01.cpp">
@@ -309,15 +312,6 @@
     <ClCompile Include="5427.cpp">
       <Filter>00.Study\BKD\BKD_09_BFS\문풀</Filter>
     </ClCompile>
-    <ClCompile Include="CH3_1.cpp">
-      <Filter>02.GM</Filter>
-    </ClCompile>
-    <ClCompile Include="CH3_2_1.cpp">
-      <Filter>02.GM</Filter>
-    </ClCompile>
-    <ClCompile Include="CH3_2_2.cpp">
-      <Filter>02.GM</Filter>
-    </ClCompile>
     <ClCompile Include="11655.cpp">
       <Filter>01.PS\01.BOJ\PT</Filter>
     </ClCompile>
@@ -330,11 +324,41 @@
     <ClCompile Include="1629.cpp">
       <Filter>00.Study\BKD\BKD_10_재귀</Filter>
     </ClCompile>
+    <ClCompile Include="CH3_1.cpp">
+      <Filter>02.GM\ch3</Filter>
+    </ClCompile>
+    <ClCompile Include="CH3_2_1.cpp">
+      <Filter>02.GM\ch3</Filter>
+    </ClCompile>
+    <ClCompile Include="CH3_2_2.cpp">
+      <Filter>02.GM\ch3</Filter>
+    </ClCompile>
     <ClCompile Include="CH3_2_3.cpp">
-      <Filter>02.GM</Filter>
+      <Filter>02.GM\ch3</Filter>
     </ClCompile>
     <ClCompile Include="CH3_2_4.cpp">
-      <Filter>02.GM</Filter>
+      <Filter>02.GM\ch3</Filter>
+    </ClCompile>
+    <ClCompile Include="CH3_3_1.cpp">
+      <Filter>02.GM\ch3</Filter>
+    </ClCompile>
+    <ClCompile Include="CH3_3_2.cpp">
+      <Filter>02.GM\ch3</Filter>
+    </ClCompile>
+    <ClCompile Include="CH3_3_3.cpp">
+      <Filter>02.GM\ch3</Filter>
+    </ClCompile>
+    <ClCompile Include="CH3_3_4.cpp">
+      <Filter>02.GM\ch3</Filter>
+    </ClCompile>
+    <ClCompile Include="CH3_3_5.cpp">
+      <Filter>02.GM\ch3</Filter>
+    </ClCompile>
+    <ClCompile Include="CH3_3_6.cpp">
+      <Filter>02.GM\ch3</Filter>
+    </ClCompile>
+    <ClCompile Include="CH3_4.cpp">
+      <Filter>02.GM\ch3</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
