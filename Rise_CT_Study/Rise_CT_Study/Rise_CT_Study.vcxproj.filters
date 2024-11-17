@@ -360,5 +360,8 @@
     <ClCompile Include="CH3_4.cpp">
       <Filter>02.GM\ch3</Filter>
     </ClCompile>
+    <ClCompile Include="2083.cpp">
+      <Filter>01.PS\01.BOJ\PT</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
