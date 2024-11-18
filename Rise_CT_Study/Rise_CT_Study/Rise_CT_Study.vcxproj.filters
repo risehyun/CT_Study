@@ -124,6 +124,9 @@
     <Filter Include="02.GM\ch3">
       <UniqueIdentifier>{127d71af-9699-4a48-9966-6e87ceceda11}</UniqueIdentifier>
     </Filter>
+    <Filter Include="00.Study\BKD\BKD_10_재귀\문풀">
+      <UniqueIdentifier>{e2a9bf0d-98d1-4900-b248-ddfd69b24621}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Hash_01.cpp">
@@ -321,9 +324,6 @@
     <ClCompile Include="EX10_2.cpp">
       <Filter>00.Study\BKD\BKD_10_재귀\예제</Filter>
     </ClCompile>
-    <ClCompile Include="1629.cpp">
-      <Filter>00.Study\BKD\BKD_10_재귀</Filter>
-    </ClCompile>
     <ClCompile Include="CH3_1.cpp">
       <Filter>02.GM\ch3</Filter>
     </ClCompile>
@@ -362,6 +362,30 @@
     </ClCompile>
     <ClCompile Include="2083.cpp">
       <Filter>01.PS\01.BOJ\PT</Filter>
+    </ClCompile>
+    <ClCompile Include="1629.cpp">
+      <Filter>00.Study\BKD\BKD_10_재귀\문풀</Filter>
+    </ClCompile>
+    <ClCompile Include="11729.cpp">
+      <Filter>00.Study\BKD\BKD_10_재귀\문풀</Filter>
+    </ClCompile>
+    <ClCompile Include="1074.cpp">
+      <Filter>00.Study\BKD\BKD_10_재귀\문풀</Filter>
+    </ClCompile>
+    <ClCompile Include="17478.cpp">
+      <Filter>00.Study\BKD\BKD_10_재귀\문풀</Filter>
+    </ClCompile>
+    <ClCompile Include="1780.cpp">
+      <Filter>00.Study\BKD\BKD_10_재귀\문풀</Filter>
+    </ClCompile>
+    <ClCompile Include="2630.cpp">
+      <Filter>00.Study\BKD\BKD_10_재귀\문풀</Filter>
+    </ClCompile>
+    <ClCompile Include="1992.cpp">
+      <Filter>00.Study\BKD\BKD_10_재귀\문풀</Filter>
+    </ClCompile>
+    <ClCompile Include="2447.cpp">
+      <Filter>00.Study\BKD\BKD_10_재귀\문풀</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
