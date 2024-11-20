@@ -30,7 +30,7 @@ void solve(int x, int y, int size)
         return;
     }
 
-    // 영역을 4등분하여 재귀적으로 호출
+    // 영역을 4등분하여 재귀 호출
     int newSize = size / 2;
     cout << "(";
     solve(x, y, newSize); // 좌상단

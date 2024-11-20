@@ -399,5 +399,17 @@
     <ClCompile Include="2583.cpp">
       <Filter>00.Study\BKD\BKD_09_BFS\문풀\2</Filter>
     </ClCompile>
+    <ClCompile Include="2667.cpp">
+      <Filter>00.Study\BKD\BKD_09_BFS\문풀\2</Filter>
+    </ClCompile>
+    <ClCompile Include="5014.cpp">
+      <Filter>00.Study\BKD\BKD_09_BFS\문풀\2</Filter>
+    </ClCompile>
+    <ClCompile Include="2468.cpp">
+      <Filter>00.Study\BKD\BKD_09_BFS\문풀\2</Filter>
+    </ClCompile>
+    <ClCompile Include="6593.cpp">
+      <Filter>00.Study\BKD\BKD_09_BFS\문풀\2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
