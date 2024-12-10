@@ -435,5 +435,35 @@
     <ClCompile Include="15651.cpp">
       <Filter>00.Study\BKD\BKD_11_백트랙킹\기본문제</Filter>
     </ClCompile>
+    <ClCompile Include="15652.cpp">
+      <Filter>00.Study\BKD\BKD_11_백트랙킹\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="15654.cpp">
+      <Filter>00.Study\BKD\BKD_11_백트랙킹\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="15655.cpp">
+      <Filter>00.Study\BKD\BKD_11_백트랙킹\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="15656.cpp">
+      <Filter>00.Study\BKD\BKD_11_백트랙킹\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="15657.cpp">
+      <Filter>00.Study\BKD\BKD_11_백트랙킹\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="15663.cpp">
+      <Filter>00.Study\BKD\BKD_11_백트랙킹\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="15664.cpp">
+      <Filter>00.Study\BKD\BKD_11_백트랙킹\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="15665.cpp">
+      <Filter>00.Study\BKD\BKD_11_백트랙킹\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="15666.cpp">
+      <Filter>00.Study\BKD\BKD_11_백트랙킹\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="6603.cpp">
+      <Filter>00.Study\BKD\BKD_11_백트랙킹\기본문제</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

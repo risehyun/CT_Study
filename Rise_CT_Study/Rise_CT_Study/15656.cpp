@@ -1,8 +1,11 @@
 #include <iostream>
+#include <vector>
+#include <algorithm>
 using namespace std;
 
 int n, m;
-int arr[10];
+vector<int> input;
+vector<int> arr;
 
 void func(int level)
 {
@@ -16,20 +19,26 @@ void func(int level)
 		return;
 	}
 
-	for (int i = 1; i <= n; i++)
+	for (int i = 0; i < n; i++)
 	{
-		arr[level] = i;
+		arr[level] = input[i];
 		func(level + 1);
 	}
-
 }
 
 int main()
 {
-	ios::sync_with_stdio(false);
-	cin.tie(0);
-
 	cin >> n >> m;
+
+	input.resize(n);
+	arr.resize(n);
+
+	for (int i = 0; i < n; i++)
+	{
+		cin >> input[i];
+	}
+
+	sort(input.begin(), input.end());
 
 	func(0);
 

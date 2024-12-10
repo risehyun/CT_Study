@@ -1,10 +1,10 @@
 #include <iostream>
 using namespace std;
 
-int n, m;
 int arr[10];
+int n, m;
 
-void func(int level)
+void func(int level, int start)
 {
 	if (level == m)
 	{
@@ -16,13 +16,13 @@ void func(int level)
 		return;
 	}
 
-	for (int i = 1; i <= n; i++)
+	for (int i = start; i <= n; i++)
 	{
 		arr[level] = i;
-		func(level + 1);
+		func(level + 1, i);
 	}
-
 }
+
 
 int main()
 {
@@ -31,7 +31,7 @@ int main()
 
 	cin >> n >> m;
 
-	func(0);
+	func(0, 1);
 
 	return 0;
 }
