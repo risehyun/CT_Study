@@ -133,6 +133,15 @@
     <Filter Include="00.Study\BKD\BKD_09_BFS\문풀\2">
       <UniqueIdentifier>{c10c4241-78c7-432c-9e78-207dec0ea1f3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="00.Study\BKD\BKD_11_백트랙킹">
+      <UniqueIdentifier>{b4dad251-25f0-4562-a73a-299247d8f81b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00.Study\BKD\BKD_11_백트랙킹\연습문제">
+      <UniqueIdentifier>{ad3fb318-217c-46c2-b628-ec8bb279e22d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00.Study\BKD\BKD_11_백트랙킹\기본문제">
+      <UniqueIdentifier>{65e6672f-70b5-43ac-821a-7d68fddf4678}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Hash_01.cpp">
@@ -410,6 +419,21 @@
     </ClCompile>
     <ClCompile Include="6593.cpp">
       <Filter>00.Study\BKD\BKD_09_BFS\문풀\2</Filter>
+    </ClCompile>
+    <ClCompile Include="15649.cpp">
+      <Filter>00.Study\BKD\BKD_11_백트랙킹\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="9663.cpp">
+      <Filter>00.Study\BKD\BKD_11_백트랙킹\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="1182.cpp">
+      <Filter>00.Study\BKD\BKD_11_백트랙킹\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="15650.cpp">
+      <Filter>00.Study\BKD\BKD_11_백트랙킹\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="15651.cpp">
+      <Filter>00.Study\BKD\BKD_11_백트랙킹\기본문제</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
