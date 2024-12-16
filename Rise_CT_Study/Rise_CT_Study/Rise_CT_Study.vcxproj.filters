@@ -142,6 +142,12 @@
     <Filter Include="00.Study\BKD\BKD_11_백트랙킹\기본문제">
       <UniqueIdentifier>{65e6672f-70b5-43ac-821a-7d68fddf4678}</UniqueIdentifier>
     </Filter>
+    <Filter Include="00.Study\BKD\BKD_12_시뮬레이션">
+      <UniqueIdentifier>{f0a779dc-5e8f-4cea-a4c0-892b21b2378d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00.Study\BKD\BKD_12_시뮬레이션\연습문제">
+      <UniqueIdentifier>{41408acd-f5af-4c3c-b1ee-dbf98c7ffd54}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Hash_01.cpp">
@@ -464,6 +470,18 @@
     </ClCompile>
     <ClCompile Include="6603.cpp">
       <Filter>00.Study\BKD\BKD_11_백트랙킹\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="18808.cpp">
+      <Filter>00.Study\BKD\BKD_12_시뮬레이션\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="15683.cpp">
+      <Filter>00.Study\BKD\BKD_12_시뮬레이션\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="12100.cpp">
+      <Filter>00.Study\BKD\BKD_12_시뮬레이션\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="15686.cpp">
+      <Filter>00.Study\BKD\BKD_12_시뮬레이션\연습문제</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
