@@ -148,6 +148,12 @@
     <Filter Include="00.Study\BKD\BKD_12_시뮬레이션\연습문제">
       <UniqueIdentifier>{41408acd-f5af-4c3c-b1ee-dbf98c7ffd54}</UniqueIdentifier>
     </Filter>
+    <Filter Include="00.Study\BKD\BKD_13_정렬1">
+      <UniqueIdentifier>{f821ec32-da2f-44be-adbd-bd0789ed531e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00.Study\BKD\BKD_13_정렬1\연습문제">
+      <UniqueIdentifier>{1b3f9af6-9e18-4c0e-921f-f8865a870939}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Hash_01.cpp">
@@ -482,6 +488,9 @@
     </ClCompile>
     <ClCompile Include="15686.cpp">
       <Filter>00.Study\BKD\BKD_12_시뮬레이션\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="2750.cpp">
+      <Filter>00.Study\BKD\BKD_13_정렬1\연습문제</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
