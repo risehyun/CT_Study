@@ -1,19 +1,15 @@
-//// 수 정렬하기 2
+//// https://dev-astra.tistory.com/212
 //
 //#include <iostream>
 //#include <vector>
 //#include <algorithm>
-//
 //using namespace std;
+//
+//int n;
+//vector<int> input;
 //
 //int main()
 //{
-//	ios::sync_with_stdio(false);
-//	cin.tie(0);
-//
-//	int n = 0;
-//	vector<int> input;
-//
 //	cin >> n;
 //
 //	input.resize(n);
@@ -23,7 +19,7 @@
 //		cin >> input[i];
 //	}
 //
-//	sort(input.begin(), input.end());
+//	sort(input.begin(), input.end(), greater<int>());
 //
 //	for (int i = 0; i < n; i++)
 //	{
