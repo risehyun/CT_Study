@@ -492,5 +492,8 @@
     <ClCompile Include="2750.cpp">
       <Filter>00.Study\BKD\BKD_13_정렬1\연습문제</Filter>
     </ClCompile>
+    <ClCompile Include="14891.cpp">
+      <Filter>00.Study\BKD\BKD_12_시뮬레이션</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
