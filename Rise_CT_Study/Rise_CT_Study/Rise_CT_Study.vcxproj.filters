@@ -1,525 +1,162 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Filter Include="소스 파일">
-      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
-      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
-    </Filter>
-    <Filter Include="헤더 파일">
-      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
-      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
-    </Filter>
-    <Filter Include="리소스 파일">
-      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
-      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
-    </Filter>
-    <Filter Include="00.Study">
-      <UniqueIdentifier>{c46b0510-4ece-45fa-b19f-5833119b1d60}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="00.Study\BKD">
-      <UniqueIdentifier>{61665197-7424-42ce-afd1-282185b0d432}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="00.Study\BKD\BKD_02_기초코드작성요령2">
-      <UniqueIdentifier>{06567be2-dc33-4ebe-bb7b-f08913f61b8b}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="01.PS">
-      <UniqueIdentifier>{5fb986ee-1ded-4099-8e4e-289e43b5ccfe}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="01.PS\01.BOJ">
-      <UniqueIdentifier>{c6c82f11-e555-4eb9-8ab8-bfe8701c002b}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="01.PS\01.BOJ\RPT">
-      <UniqueIdentifier>{7a1310da-e6bb-4c6a-a7d9-ff8795f90bd1}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="01.PS\01.BOJ\PT">
-      <UniqueIdentifier>{8f6bc9ab-9608-4bcb-b887-7cb47bd60c44}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="01.PS\02.Programmers">
-      <UniqueIdentifier>{a7184b07-ec61-4013-b2da-c02832ac96f5}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="01.PS\02.Programmers\고득점Kit">
-      <UniqueIdentifier>{096febaf-25f5-4d70-967b-74fe60475a9e}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="01.PS\02.Programmers\고득점Kit\해시">
-      <UniqueIdentifier>{16223ea1-4187-45a5-90a4-88a55946e2a5}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="00.Study\BKD\BKD_02_기초코드작성요령2\문풀">
-      <UniqueIdentifier>{9871f9a0-099f-4ca3-baa3-8991485bc1ff}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="00.Study\BKD\BKD_01_기초코드작성요령1%28완%29">
-      <UniqueIdentifier>{145d244e-ab40-4373-9fb5-0cea5d9d00f6}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="00.Study\BKD\BKD_01_기초코드작성요령1%28완%29\예제">
-      <UniqueIdentifier>{6b474cf3-707f-4b82-af10-2955b8c05a6c}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="00.Study\BKD\BKD_04_연결리스트">
-      <UniqueIdentifier>{61ecd190-50cf-4967-a3da-6959d9072c78}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="00.Study\BKD\BKD_03_배열">
-      <UniqueIdentifier>{eed4261d-735e-4f2b-873f-8abb351c376c}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="00.Study\BKD\BKD_03_배열\예제">
-      <UniqueIdentifier>{fbed9cdf-536b-4f1a-8a65-f42d113d5518}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="00.Study\BKD\BKD_03_배열\문풀">
-      <UniqueIdentifier>{f06bd045-0725-4a67-8069-e658e9d8c71f}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="00.Study\BKD\BKD_04_연결리스트\예제">
-      <UniqueIdentifier>{baadc108-cfa8-4708-b4dc-2d850cd351b3}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="00.Study\BKD\BKD_04_연결리스트\문풀">
-      <UniqueIdentifier>{152e2790-176a-42b5-a55c-f87bcd8166df}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="00.Study\BKD\BKD_05_스택">
-      <UniqueIdentifier>{26e2cef9-ab86-4a4e-8f3c-8c5e2b41dcb3}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="00.Study\BKD\BKD_05_스택\예제">
-      <UniqueIdentifier>{1b571f90-dfda-40ba-b4af-b92a3ee94b02}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="00.Study\BKD\BKD_05_스택\문풀">
-      <UniqueIdentifier>{18a4ffe0-86db-446a-b8b5-d815547f3296}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="00.Study\BKD\BKD_06_큐%28완%29">
-      <UniqueIdentifier>{b6c0087d-b38c-47df-92d0-39b8cb675b79}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="00.Study\BKD\BKD_06_큐%28완%29\문풀">
-      <UniqueIdentifier>{f386fc3e-9051-453b-842c-8c61a1892e33}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="00.Study\BKD\BKD_06_큐%28완%29\예제">
-      <UniqueIdentifier>{30f37289-7a9d-4baa-8c18-5109bab0c78f}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="00.Study\BKD\BKD_07_덱%28완%29">
-      <UniqueIdentifier>{1402a02c-aa04-4aa5-87bf-7ddfd01f79d8}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="00.Study\BKD\BKD_07_덱%28완%29\예제">
-      <UniqueIdentifier>{03f431c4-c101-447a-aa73-db6100023626}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="00.Study\BKD\BKD_07_덱%28완%29\문풀">
-      <UniqueIdentifier>{7013e102-e8db-452d-ab72-8dc829715ccb}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="00.Study\BKD\BKD_08_스택괄호쌍%28완%29">
-      <UniqueIdentifier>{e42df3f5-f3cb-4162-8e96-22e7e818e791}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="00.Study\BKD\BKD_08_스택괄호쌍%28완%29\문풀">
-      <UniqueIdentifier>{ce3a4d23-9eb8-4b17-b831-05d6d23bc92a}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="00.Study\BKD\BKD_09_BFS">
-      <UniqueIdentifier>{b23ab5b8-8df9-44b8-9b56-b95f7e06f8cd}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="00.Study\BKD\BKD_09_BFS\문풀">
-      <UniqueIdentifier>{ba57d9ef-bf44-453d-801d-5d74c97a9fe1}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="00.Study\BKD\BKD_09_BFS\예제">
-      <UniqueIdentifier>{384af664-e3fa-4d8f-b017-ab85e730920a}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="02.GM">
-      <UniqueIdentifier>{4e8ea758-7a53-4a1f-bfb1-82bc80f93ac8}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="00.Study\BKD\BKD_10_재귀">
-      <UniqueIdentifier>{c434f156-c760-4f5a-829e-fe8aebecee0e}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="00.Study\BKD\BKD_10_재귀\예제">
-      <UniqueIdentifier>{10dc87e7-b85d-498e-a155-e7c865b3e574}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="02.GM\ch3">
-      <UniqueIdentifier>{127d71af-9699-4a48-9966-6e87ceceda11}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="00.Study\BKD\BKD_10_재귀\문풀">
-      <UniqueIdentifier>{e2a9bf0d-98d1-4900-b248-ddfd69b24621}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="00.Study\BKD\BKD_09_BFS\문풀\1">
-      <UniqueIdentifier>{4478e0aa-2f43-4724-8ecd-98b0a74ac776}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="00.Study\BKD\BKD_09_BFS\문풀\2">
-      <UniqueIdentifier>{c10c4241-78c7-432c-9e78-207dec0ea1f3}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="00.Study\BKD\BKD_11_백트랙킹">
-      <UniqueIdentifier>{b4dad251-25f0-4562-a73a-299247d8f81b}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="00.Study\BKD\BKD_11_백트랙킹\연습문제">
-      <UniqueIdentifier>{ad3fb318-217c-46c2-b628-ec8bb279e22d}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="00.Study\BKD\BKD_11_백트랙킹\기본문제">
-      <UniqueIdentifier>{65e6672f-70b5-43ac-821a-7d68fddf4678}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="00.Study\BKD\BKD_12_시뮬레이션">
-      <UniqueIdentifier>{f0a779dc-5e8f-4cea-a4c0-892b21b2378d}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="00.Study\BKD\BKD_12_시뮬레이션\연습문제">
-      <UniqueIdentifier>{41408acd-f5af-4c3c-b1ee-dbf98c7ffd54}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="00.Study\BKD\BKD_13_정렬1">
-      <UniqueIdentifier>{f821ec32-da2f-44be-adbd-bd0789ed531e}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="00.Study\BKD\BKD_13_정렬1\연습문제">
-      <UniqueIdentifier>{1b3f9af6-9e18-4c0e-921f-f8865a870939}</UniqueIdentifier>
-    </Filter>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="Hash_01.cpp">
-      <Filter>01.PS\02.Programmers\고득점Kit\해시</Filter>
-    </ClCompile>
-    <ClCompile Include="RE%299095.cpp">
-      <Filter>01.PS\01.BOJ\RPT</Filter>
-    </ClCompile>
-    <ClCompile Include="EX1_1.cpp">
-      <Filter>00.Study\BKD\BKD_01_기초코드작성요령1%28완%29\예제</Filter>
-    </ClCompile>
-    <ClCompile Include="EX1_2.cpp">
-      <Filter>00.Study\BKD\BKD_01_기초코드작성요령1%28완%29\예제</Filter>
-    </ClCompile>
-    <ClCompile Include="EX1_3.cpp">
-      <Filter>00.Study\BKD\BKD_01_기초코드작성요령1%28완%29\예제</Filter>
-    </ClCompile>
-    <ClCompile Include="EX1_4.cpp">
-      <Filter>00.Study\BKD\BKD_01_기초코드작성요령1%28완%29\예제</Filter>
-    </ClCompile>
-    <ClCompile Include="array_test.cpp">
-      <Filter>00.Study\BKD\BKD_03_배열\예제</Filter>
-    </ClCompile>
-    <ClCompile Include="1267.cpp">
-      <Filter>00.Study\BKD\BKD_02_기초코드작성요령2\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="2490.cpp">
-      <Filter>00.Study\BKD\BKD_02_기초코드작성요령2\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="2490_2.cpp">
-      <Filter>00.Study\BKD\BKD_02_기초코드작성요령2\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="2576.cpp">
-      <Filter>00.Study\BKD\BKD_02_기초코드작성요령2\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="2576_2.cpp">
-      <Filter>00.Study\BKD\BKD_02_기초코드작성요령2\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="2752.cpp">
-      <Filter>00.Study\BKD\BKD_02_기초코드작성요령2\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="10093.cpp">
-      <Filter>00.Study\BKD\BKD_02_기초코드작성요령2\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="10871.cpp">
-      <Filter>00.Study\BKD\BKD_02_기초코드작성요령2\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="EX2_1.cpp">
-      <Filter>00.Study\BKD\BKD_03_배열\예제</Filter>
-    </ClCompile>
-    <ClCompile Include="1475.cpp">
-      <Filter>00.Study\BKD\BKD_03_배열\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="1475_2.cpp">
-      <Filter>00.Study\BKD\BKD_03_배열\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="3273.cpp">
-      <Filter>00.Study\BKD\BKD_03_배열\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="EX4_1.cpp">
-      <Filter>00.Study\BKD\BKD_04_연결리스트\예제</Filter>
-    </ClCompile>
-    <ClCompile Include="1406.cpp">
-      <Filter>00.Study\BKD\BKD_04_연결리스트\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="5397.cpp">
-      <Filter>00.Study\BKD\BKD_04_연결리스트\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="1158.cpp">
-      <Filter>00.Study\BKD\BKD_04_연결리스트\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="EX5_1.cpp">
-      <Filter>00.Study\BKD\BKD_05_스택\예제</Filter>
-    </ClCompile>
-    <ClCompile Include="2440.cpp">
-      <Filter>00.Study\BKD\BKD_02_기초코드작성요령2\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="10828_1.cpp">
-      <Filter>00.Study\BKD\BKD_05_스택\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="10828_2.cpp">
-      <Filter>00.Study\BKD\BKD_05_스택\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="2493.cpp">
-      <Filter>00.Study\BKD\BKD_05_스택\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="6198.cpp">
-      <Filter>00.Study\BKD\BKD_05_스택\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="EX6_1.cpp">
-      <Filter>00.Study\BKD\BKD_06_큐%28완%29\예제</Filter>
-    </ClCompile>
-    <ClCompile Include="10845.cpp">
-      <Filter>00.Study\BKD\BKD_06_큐%28완%29\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="1159.cpp">
-      <Filter>01.PS\01.BOJ\PT</Filter>
-    </ClCompile>
-    <ClCompile Include="18258.cpp">
-      <Filter>00.Study\BKD\BKD_06_큐%28완%29\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="2164.cpp">
-      <Filter>00.Study\BKD\BKD_06_큐%28완%29\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="10866_1.cpp">
-      <Filter>00.Study\BKD\BKD_07_덱%28완%29\예제</Filter>
-    </ClCompile>
-    <ClCompile Include="10866_2.cpp">
-      <Filter>00.Study\BKD\BKD_07_덱%28완%29\예제</Filter>
-    </ClCompile>
-    <ClCompile Include="1021.cpp">
-      <Filter>00.Study\BKD\BKD_07_덱%28완%29\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="5430.cpp">
-      <Filter>00.Study\BKD\BKD_07_덱%28완%29\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="11003.cpp">
-      <Filter>00.Study\BKD\BKD_07_덱%28완%29\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="10773.cpp">
-      <Filter>00.Study\BKD\BKD_05_스택\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="1874.cpp">
-      <Filter>00.Study\BKD\BKD_05_스택\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="17298.cpp">
-      <Filter>00.Study\BKD\BKD_05_스택\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="3015.cpp">
-      <Filter>00.Study\BKD\BKD_05_스택\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="6549.cpp">
-      <Filter>00.Study\BKD\BKD_05_스택\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="2441.cpp">
-      <Filter>00.Study\BKD\BKD_02_기초코드작성요령2\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="2443.cpp">
-      <Filter>00.Study\BKD\BKD_02_기초코드작성요령2\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="4949.cpp">
-      <Filter>00.Study\BKD\BKD_08_스택괄호쌍%28완%29\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="3986.cpp">
-      <Filter>00.Study\BKD\BKD_08_스택괄호쌍%28완%29\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="9012.cpp">
-      <Filter>00.Study\BKD\BKD_08_스택괄호쌍%28완%29\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="10799.cpp">
-      <Filter>00.Study\BKD\BKD_08_스택괄호쌍%28완%29\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="2504.cpp">
-      <Filter>00.Study\BKD\BKD_08_스택괄호쌍%28완%29\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="EX_9.cpp">
-      <Filter>00.Study\BKD\BKD_09_BFS\예제</Filter>
-    </ClCompile>
-    <ClCompile Include="11655.cpp">
-      <Filter>01.PS\01.BOJ\PT</Filter>
-    </ClCompile>
-    <ClCompile Include="EX10_1.cpp">
-      <Filter>00.Study\BKD\BKD_10_재귀\예제</Filter>
-    </ClCompile>
-    <ClCompile Include="EX10_2.cpp">
-      <Filter>00.Study\BKD\BKD_10_재귀\예제</Filter>
-    </ClCompile>
-    <ClCompile Include="CH3_1.cpp">
-      <Filter>02.GM\ch3</Filter>
-    </ClCompile>
-    <ClCompile Include="CH3_2_1.cpp">
-      <Filter>02.GM\ch3</Filter>
-    </ClCompile>
-    <ClCompile Include="CH3_2_2.cpp">
-      <Filter>02.GM\ch3</Filter>
-    </ClCompile>
-    <ClCompile Include="CH3_2_3.cpp">
-      <Filter>02.GM\ch3</Filter>
-    </ClCompile>
-    <ClCompile Include="CH3_2_4.cpp">
-      <Filter>02.GM\ch3</Filter>
-    </ClCompile>
-    <ClCompile Include="CH3_3_1.cpp">
-      <Filter>02.GM\ch3</Filter>
-    </ClCompile>
-    <ClCompile Include="CH3_3_2.cpp">
-      <Filter>02.GM\ch3</Filter>
-    </ClCompile>
-    <ClCompile Include="CH3_3_3.cpp">
-      <Filter>02.GM\ch3</Filter>
-    </ClCompile>
-    <ClCompile Include="CH3_3_4.cpp">
-      <Filter>02.GM\ch3</Filter>
-    </ClCompile>
-    <ClCompile Include="CH3_3_5.cpp">
-      <Filter>02.GM\ch3</Filter>
-    </ClCompile>
-    <ClCompile Include="CH3_3_6.cpp">
-      <Filter>02.GM\ch3</Filter>
-    </ClCompile>
-    <ClCompile Include="CH3_4.cpp">
-      <Filter>02.GM\ch3</Filter>
-    </ClCompile>
-    <ClCompile Include="2083.cpp">
-      <Filter>01.PS\01.BOJ\PT</Filter>
-    </ClCompile>
-    <ClCompile Include="1629.cpp">
-      <Filter>00.Study\BKD\BKD_10_재귀\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="11729.cpp">
-      <Filter>00.Study\BKD\BKD_10_재귀\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="1074.cpp">
-      <Filter>00.Study\BKD\BKD_10_재귀\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="17478.cpp">
-      <Filter>00.Study\BKD\BKD_10_재귀\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="1780.cpp">
-      <Filter>00.Study\BKD\BKD_10_재귀\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="2630.cpp">
-      <Filter>00.Study\BKD\BKD_10_재귀\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="1992.cpp">
-      <Filter>00.Study\BKD\BKD_10_재귀\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="★2447.cpp">
-      <Filter>00.Study\BKD\BKD_10_재귀\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="★2448.cpp">
-      <Filter>00.Study\BKD\BKD_10_재귀\문풀</Filter>
-    </ClCompile>
-    <ClCompile Include="1012.cpp">
-      <Filter>00.Study\BKD\BKD_09_BFS\문풀\1</Filter>
-    </ClCompile>
-    <ClCompile Include="1697.cpp">
-      <Filter>00.Study\BKD\BKD_09_BFS\문풀\1</Filter>
-    </ClCompile>
-    <ClCompile Include="1926.cpp">
-      <Filter>00.Study\BKD\BKD_09_BFS\문풀\1</Filter>
-    </ClCompile>
-    <ClCompile Include="2178.cpp">
-      <Filter>00.Study\BKD\BKD_09_BFS\문풀\1</Filter>
-    </ClCompile>
-    <ClCompile Include="4179.cpp">
-      <Filter>00.Study\BKD\BKD_09_BFS\문풀\1</Filter>
-    </ClCompile>
-    <ClCompile Include="5427.cpp">
-      <Filter>00.Study\BKD\BKD_09_BFS\문풀\1</Filter>
-    </ClCompile>
-    <ClCompile Include="7562.cpp">
-      <Filter>00.Study\BKD\BKD_09_BFS\문풀\1</Filter>
-    </ClCompile>
-    <ClCompile Include="7569.cpp">
-      <Filter>00.Study\BKD\BKD_09_BFS\문풀\1</Filter>
-    </ClCompile>
-    <ClCompile Include="7576.cpp">
-      <Filter>00.Study\BKD\BKD_09_BFS\문풀\1</Filter>
-    </ClCompile>
-    <ClCompile Include="10026.cpp">
-      <Filter>00.Study\BKD\BKD_09_BFS\문풀\1</Filter>
-    </ClCompile>
-    <ClCompile Include="2583.cpp">
-      <Filter>00.Study\BKD\BKD_09_BFS\문풀\2</Filter>
-    </ClCompile>
-    <ClCompile Include="2667.cpp">
-      <Filter>00.Study\BKD\BKD_09_BFS\문풀\2</Filter>
-    </ClCompile>
-    <ClCompile Include="5014.cpp">
-      <Filter>00.Study\BKD\BKD_09_BFS\문풀\2</Filter>
-    </ClCompile>
-    <ClCompile Include="2468.cpp">
-      <Filter>00.Study\BKD\BKD_09_BFS\문풀\2</Filter>
-    </ClCompile>
-    <ClCompile Include="6593.cpp">
-      <Filter>00.Study\BKD\BKD_09_BFS\문풀\2</Filter>
-    </ClCompile>
-    <ClCompile Include="15649.cpp">
-      <Filter>00.Study\BKD\BKD_11_백트랙킹\연습문제</Filter>
-    </ClCompile>
-    <ClCompile Include="9663.cpp">
-      <Filter>00.Study\BKD\BKD_11_백트랙킹\연습문제</Filter>
-    </ClCompile>
-    <ClCompile Include="1182.cpp">
-      <Filter>00.Study\BKD\BKD_11_백트랙킹\연습문제</Filter>
-    </ClCompile>
-    <ClCompile Include="15650.cpp">
-      <Filter>00.Study\BKD\BKD_11_백트랙킹\기본문제</Filter>
-    </ClCompile>
-    <ClCompile Include="15651.cpp">
-      <Filter>00.Study\BKD\BKD_11_백트랙킹\기본문제</Filter>
-    </ClCompile>
-    <ClCompile Include="15652.cpp">
-      <Filter>00.Study\BKD\BKD_11_백트랙킹\기본문제</Filter>
-    </ClCompile>
-    <ClCompile Include="15654.cpp">
-      <Filter>00.Study\BKD\BKD_11_백트랙킹\기본문제</Filter>
-    </ClCompile>
-    <ClCompile Include="15655.cpp">
-      <Filter>00.Study\BKD\BKD_11_백트랙킹\기본문제</Filter>
-    </ClCompile>
-    <ClCompile Include="15656.cpp">
-      <Filter>00.Study\BKD\BKD_11_백트랙킹\기본문제</Filter>
-    </ClCompile>
-    <ClCompile Include="15657.cpp">
-      <Filter>00.Study\BKD\BKD_11_백트랙킹\기본문제</Filter>
-    </ClCompile>
-    <ClCompile Include="15663.cpp">
-      <Filter>00.Study\BKD\BKD_11_백트랙킹\기본문제</Filter>
-    </ClCompile>
-    <ClCompile Include="15664.cpp">
-      <Filter>00.Study\BKD\BKD_11_백트랙킹\기본문제</Filter>
-    </ClCompile>
-    <ClCompile Include="15665.cpp">
-      <Filter>00.Study\BKD\BKD_11_백트랙킹\기본문제</Filter>
-    </ClCompile>
-    <ClCompile Include="15666.cpp">
-      <Filter>00.Study\BKD\BKD_11_백트랙킹\기본문제</Filter>
-    </ClCompile>
-    <ClCompile Include="6603.cpp">
-      <Filter>00.Study\BKD\BKD_11_백트랙킹\기본문제</Filter>
-    </ClCompile>
-    <ClCompile Include="18808.cpp">
-      <Filter>00.Study\BKD\BKD_12_시뮬레이션\연습문제</Filter>
-    </ClCompile>
-    <ClCompile Include="15683.cpp">
-      <Filter>00.Study\BKD\BKD_12_시뮬레이션\연습문제</Filter>
-    </ClCompile>
-    <ClCompile Include="12100.cpp">
-      <Filter>00.Study\BKD\BKD_12_시뮬레이션\연습문제</Filter>
-    </ClCompile>
-    <ClCompile Include="15686.cpp">
-      <Filter>00.Study\BKD\BKD_12_시뮬레이션\연습문제</Filter>
+    <ClCompile Include="10026.cpp" />
+    <ClCompile Include="10093.cpp" />
+    <ClCompile Include="1012.cpp" />
+    <ClCompile Include="1021.cpp" />
+    <ClCompile Include="1074.cpp" />
+    <ClCompile Include="10773.cpp" />
+    <ClCompile Include="10799.cpp" />
+    <ClCompile Include="10828_1.cpp" />
+    <ClCompile Include="10828_2.cpp" />
+    <ClCompile Include="10845.cpp" />
+    <ClCompile Include="10866_1.cpp" />
+    <ClCompile Include="10866_2.cpp" />
+    <ClCompile Include="10871.cpp" />
+    <ClCompile Include="11003.cpp" />
+    <ClCompile Include="11559.cpp" />
+    <ClCompile Include="1158.cpp" />
+    <ClCompile Include="1159.cpp" />
+    <ClCompile Include="11655.cpp" />
+    <ClCompile Include="11729.cpp" />
+    <ClCompile Include="1182.cpp" />
+    <ClCompile Include="12100.cpp" />
+    <ClCompile Include="1267.cpp" />
+    <ClCompile Include="1406.cpp" />
+    <ClCompile Include="1475.cpp" />
+    <ClCompile Include="1475_2.cpp" />
+    <ClCompile Include="14891.cpp" />
+    <ClCompile Include="15649.cpp" />
+    <ClCompile Include="15650.cpp" />
+    <ClCompile Include="15651.cpp" />
+    <ClCompile Include="15652.cpp" />
+    <ClCompile Include="15654.cpp" />
+    <ClCompile Include="15655.cpp" />
+    <ClCompile Include="15656.cpp" />
+    <ClCompile Include="15657.cpp" />
+    <ClCompile Include="15663.cpp" />
+    <ClCompile Include="15664.cpp" />
+    <ClCompile Include="15665.cpp" />
+    <ClCompile Include="15666.cpp" />
+    <ClCompile Include="15683.cpp" />
+    <ClCompile Include="15686.cpp" />
+    <ClCompile Include="1629.cpp" />
+    <ClCompile Include="17478.cpp" />
+    <ClCompile Include="1780.cpp" />
+    <ClCompile Include="18808.cpp" />
+    <ClCompile Include="1992.cpp" />
+    <ClCompile Include="2083.cpp" />
+    <ClCompile Include="2468.cpp" />
+    <ClCompile Include="2583.cpp" />
+    <ClCompile Include="2667.cpp" />
+    <ClCompile Include="5014.cpp" />
+    <ClCompile Include="6593.cpp" />
+    <ClCompile Include="6603.cpp" />
+    <ClCompile Include="9663.cpp" />
+    <ClCompile Include="★2447.cpp" />
+    <ClCompile Include="★2448.cpp" />
+    <ClCompile Include="2630.cpp" />
+    <ClCompile Include="CH3_2_3.cpp" />
+    <ClCompile Include="CH3_2_4.cpp" />
+    <ClCompile Include="CH3_3_1.cpp" />
+    <ClCompile Include="CH3_3_2.cpp" />
+    <ClCompile Include="CH3_3_3.cpp" />
+    <ClCompile Include="CH3_3_4.cpp" />
+    <ClCompile Include="CH3_3_5.cpp" />
+    <ClCompile Include="CH3_3_6.cpp" />
+    <ClCompile Include="CH3_4.cpp" />
+    <ClCompile Include="EX10_1.cpp" />
+    <ClCompile Include="1697.cpp" />
+    <ClCompile Include="17298.cpp" />
+    <ClCompile Include="18258.cpp" />
+    <ClCompile Include="1874.cpp" />
+    <ClCompile Include="1926.cpp" />
+    <ClCompile Include="2164.cpp" />
+    <ClCompile Include="2178.cpp" />
+    <ClCompile Include="2440.cpp" />
+    <ClCompile Include="2441.cpp" />
+    <ClCompile Include="2443.cpp" />
+    <ClCompile Include="2490.cpp" />
+    <ClCompile Include="2490_2.cpp" />
+    <ClCompile Include="2493.cpp" />
+    <ClCompile Include="2504.cpp" />
+    <ClCompile Include="2576.cpp" />
+    <ClCompile Include="2576_2.cpp" />
+    <ClCompile Include="2752.cpp" />
+    <ClCompile Include="3015.cpp" />
+    <ClCompile Include="3273.cpp" />
+    <ClCompile Include="3986.cpp" />
+    <ClCompile Include="4179.cpp" />
+    <ClCompile Include="4949.cpp" />
+    <ClCompile Include="5397.cpp" />
+    <ClCompile Include="5427.cpp" />
+    <ClCompile Include="5430.cpp" />
+    <ClCompile Include="6198.cpp" />
+    <ClCompile Include="6549.cpp" />
+    <ClCompile Include="7562.cpp" />
+    <ClCompile Include="7569.cpp" />
+    <ClCompile Include="7576.cpp" />
+    <ClCompile Include="9012.cpp" />
+    <ClCompile Include="array_test.cpp" />
+    <ClCompile Include="CH3_1.cpp" />
+    <ClCompile Include="CH3_2_1.cpp" />
+    <ClCompile Include="CH3_2_2.cpp" />
+    <ClCompile Include="EX10_2.cpp" />
+    <ClCompile Include="EX1_1.cpp" />
+    <ClCompile Include="EX1_2.cpp" />
+    <ClCompile Include="EX1_3.cpp" />
+    <ClCompile Include="EX1_4.cpp" />
+    <ClCompile Include="EX2_1.cpp" />
+    <ClCompile Include="EX4_1.cpp" />
+    <ClCompile Include="EX5_1.cpp" />
+    <ClCompile Include="EX6_1.cpp" />
+    <ClCompile Include="EX_9.cpp" />
+    <ClCompile Include="RE%299095.cpp" />
+    <ClCompile Include="Hash_01.cpp" />
+    <ClCompile Include="11728.cpp">
+      <Filter>00.Study\14. 정렬1\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="merge_sort_test.cpp">
+      <Filter>00.Study\14. 정렬1\연습문제</Filter>
     </ClCompile>
     <ClCompile Include="2750.cpp">
-      <Filter>00.Study\BKD\BKD_13_정렬1\연습문제</Filter>
+      <Filter>00.Study\14. 정렬1\기본문제</Filter>
     </ClCompile>
-<<<<<<< HEAD
-    <ClCompile Include="14891.cpp">
-      <Filter>00.Study\BKD\BKD_12_시뮬레이션</Filter>
-=======
     <ClCompile Include="2751.cpp">
-      <Filter>00.Study\BKD\BKD_13_정렬1\연습문제</Filter>
+      <Filter>00.Study\14. 정렬1\기본문제</Filter>
     </ClCompile>
     <ClCompile Include="10989.cpp">
-      <Filter>00.Study\BKD\BKD_13_정렬1\연습문제</Filter>
+      <Filter>00.Study\14. 정렬1\기본문제</Filter>
     </ClCompile>
     <ClCompile Include="11931.cpp">
-      <Filter>00.Study\BKD\BKD_13_정렬1\연습문제</Filter>
+      <Filter>00.Study\14. 정렬1\기본문제</Filter>
     </ClCompile>
     <ClCompile Include="15688.cpp">
-      <Filter>00.Study\BKD\BKD_13_정렬1\연습문제</Filter>
+      <Filter>00.Study\14. 정렬1\기본문제</Filter>
     </ClCompile>
     <ClCompile Include="10814.cpp">
-      <Filter>00.Study\BKD\BKD_13_정렬1\연습문제</Filter>
+      <Filter>00.Study\14. 정렬1\기본문제</Filter>
     </ClCompile>
     <ClCompile Include="11650.cpp">
-      <Filter>00.Study\BKD\BKD_13_정렬1\연습문제</Filter>
+      <Filter>00.Study\14. 정렬1\기본문제</Filter>
     </ClCompile>
     <ClCompile Include="11651.cpp">
-      <Filter>00.Study\BKD\BKD_13_정렬1\연습문제</Filter>
+      <Filter>00.Study\14. 정렬1\기본문제</Filter>
     </ClCompile>
-    <ClCompile Include="11559.cpp">
-      <Filter>00.Study\BKD\BKD_12_시뮬레이션\연습문제</Filter>
->>>>>>> 0b6a9b96a5320644cbab1c1a736c84c3b54b2b8f
-    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="00.Study">
+      <UniqueIdentifier>{e6376ca3-04cd-4855-b0c0-7bfe248a0845}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00.Study\14. 정렬1">
+      <UniqueIdentifier>{c652d283-515a-40db-a5bd-d059b8a31ff7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00.Study\14. 정렬1\연습문제">
+      <UniqueIdentifier>{60718c25-b063-466c-943d-9736627339b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00.Study\14. 정렬1\기본문제">
+      <UniqueIdentifier>{5b9e9273-af76-4a34-b5e5-a9b3bf90228e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
 </Project>
