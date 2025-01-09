@@ -144,6 +144,9 @@
     <ClCompile Include="11651.cpp">
       <Filter>00.Study\14. 정렬1\기본문제</Filter>
     </ClCompile>
+    <ClCompile Include="1431.cpp">
+      <Filter>00.Study\15. 정렬2</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="00.Study">
@@ -157,6 +160,9 @@
     </Filter>
     <Filter Include="00.Study\14. 정렬1\기본문제">
       <UniqueIdentifier>{5b9e9273-af76-4a34-b5e5-a9b3bf90228e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00.Study\15. 정렬2">
+      <UniqueIdentifier>{50e475d8-18f2-46c2-872b-82de194f62bd}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
