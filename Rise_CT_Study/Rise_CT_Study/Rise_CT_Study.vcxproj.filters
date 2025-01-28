@@ -183,6 +183,24 @@
     <ClCompile Include="1149.cpp">
       <Filter>00.Study\16. 다이나믹프로그래밍\연습문제</Filter>
     </ClCompile>
+    <ClCompile Include="11726.cpp">
+      <Filter>00.Study\16. 다이나믹프로그래밍\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="11659.cpp">
+      <Filter>00.Study\16. 다이나믹프로그래밍\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="12852.cpp">
+      <Filter>00.Study\16. 다이나믹프로그래밍\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="1003.cpp">
+      <Filter>00.Study\16. 다이나믹프로그래밍\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="1932.cpp">
+      <Filter>00.Study\16. 다이나믹프로그래밍\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="11727.cpp">
+      <Filter>00.Study\16. 다이나믹프로그래밍\연습문제</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="00.Study">
