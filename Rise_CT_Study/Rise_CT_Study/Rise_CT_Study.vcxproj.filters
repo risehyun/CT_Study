@@ -13,7 +13,6 @@
     <ClCompile Include="10845.cpp" />
     <ClCompile Include="10866_1.cpp" />
     <ClCompile Include="10866_2.cpp" />
-    <ClCompile Include="10871.cpp" />
     <ClCompile Include="11003.cpp" />
     <ClCompile Include="11559.cpp" />
     <ClCompile Include="1158.cpp" />
@@ -210,6 +209,27 @@
     <ClCompile Include="2217.cpp">
       <Filter>00.Study\17. 그리디</Filter>
     </ClCompile>
+    <ClCompile Include="10871.cpp">
+      <Filter>00.Study\2. 기초코드작성요령2</Filter>
+    </ClCompile>
+    <ClCompile Include="10871_2.cpp">
+      <Filter>00.Study\2. 기초코드작성요령2</Filter>
+    </ClCompile>
+    <ClCompile Include="1000.cpp">
+      <Filter>00.Study\2. 기초코드작성요령2</Filter>
+    </ClCompile>
+    <ClCompile Include="2557.cpp">
+      <Filter>00.Study\2. 기초코드작성요령2</Filter>
+    </ClCompile>
+    <ClCompile Include="10171.cpp">
+      <Filter>00.Study\2. 기초코드작성요령2</Filter>
+    </ClCompile>
+    <ClCompile Include="10869.cpp">
+      <Filter>00.Study\2. 기초코드작성요령2</Filter>
+    </ClCompile>
+    <ClCompile Include="9498.cpp">
+      <Filter>00.Study\2. 기초코드작성요령2</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="00.Study">
@@ -238,6 +258,9 @@
     </Filter>
     <Filter Include="00.Study\17. 그리디">
       <UniqueIdentifier>{3277fba1-bb71-497a-91a5-d36aa20b2d8c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00.Study\2. 기초코드작성요령2">
+      <UniqueIdentifier>{c15bc8f6-d73d-42b6-903b-b402ec67a4fb}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
