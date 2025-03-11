@@ -4,26 +4,21 @@ using namespace std;
 
 int score;
 
-int main()
+void print(int _score)
 {
-	ios::sync_with_stdio(0);
-	cin.tie(0);
-
-	cin >> score;
-
-	if (score >= 90 && score <= 100)
+	if (_score >= 90 && _score <= 100)
 	{
 		cout << 'A';
 	}
-	else if (score >= 89 && score <= 80)
+	else if (_score >= 80 && _score <= 89)
 	{
 		cout << 'B';
 	}
-	else if (score >= 79 && score <= 70)
+	else if (_score >= 70 && _score <= 79)
 	{
 		cout << 'C';
 	}
-	else if (score >= 69 && score <= 60)
+	else if (_score >= 60 && _score <= 69)
 	{
 		cout << 'D';
 	}
@@ -31,6 +26,17 @@ int main()
 	{
 		cout << 'F';
 	}
+
+}
+
+int main()
+{
+	ios::sync_with_stdio(0);
+	cin.tie(0);
+
+	cin >> score;
+
+	print(score);
 
 	return 0;
 }
