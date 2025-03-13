@@ -76,8 +76,6 @@
     <ClCompile Include="2440.cpp" />
     <ClCompile Include="2441.cpp" />
     <ClCompile Include="2443.cpp" />
-    <ClCompile Include="2490.cpp" />
-    <ClCompile Include="2490_2.cpp" />
     <ClCompile Include="2493.cpp" />
     <ClCompile Include="2504.cpp" />
     <ClCompile Include="2576.cpp" />
@@ -239,6 +237,15 @@
       <Filter>00.Study\2. 기초코드작성요령2</Filter>
     </ClCompile>
     <ClCompile Include="2480.cpp">
+      <Filter>00.Study\2. 기초코드작성요령2</Filter>
+    </ClCompile>
+    <ClCompile Include="2490.cpp">
+      <Filter>00.Study\2. 기초코드작성요령2</Filter>
+    </ClCompile>
+    <ClCompile Include="2490_2.cpp">
+      <Filter>00.Study\2. 기초코드작성요령2</Filter>
+    </ClCompile>
+    <ClCompile Include="2490_3.cpp">
       <Filter>00.Study\2. 기초코드작성요령2</Filter>
     </ClCompile>
   </ItemGroup>
