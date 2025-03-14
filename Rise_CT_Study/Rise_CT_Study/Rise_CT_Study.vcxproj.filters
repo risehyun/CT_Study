@@ -2,7 +2,6 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <ClCompile Include="10026.cpp" />
-    <ClCompile Include="10093.cpp" />
     <ClCompile Include="1012.cpp" />
     <ClCompile Include="1021.cpp" />
     <ClCompile Include="1074.cpp" />
@@ -259,6 +258,12 @@
       <Filter>00.Study\2. 기초코드작성요령2</Filter>
     </ClCompile>
     <ClCompile Include="2309.cpp">
+      <Filter>00.Study\2. 기초코드작성요령2</Filter>
+    </ClCompile>
+    <ClCompile Include="10093.cpp">
+      <Filter>00.Study\2. 기초코드작성요령2</Filter>
+    </ClCompile>
+    <ClCompile Include="10093_2.cpp">
       <Filter>00.Study\2. 기초코드작성요령2</Filter>
     </ClCompile>
   </ItemGroup>
