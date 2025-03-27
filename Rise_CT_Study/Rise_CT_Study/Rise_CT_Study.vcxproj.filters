@@ -68,9 +68,7 @@
     <ClCompile Include="17298.cpp" />
     <ClCompile Include="18258.cpp" />
     <ClCompile Include="1874.cpp" />
-    <ClCompile Include="1926.cpp" />
     <ClCompile Include="2164.cpp" />
-    <ClCompile Include="2178.cpp" />
     <ClCompile Include="2440.cpp" />
     <ClCompile Include="2441.cpp" />
     <ClCompile Include="2443.cpp" />
@@ -271,6 +269,18 @@
     <ClCompile Include="1267_2.cpp">
       <Filter>00.Study\2. 기초코드작성요령2</Filter>
     </ClCompile>
+    <ClCompile Include="1926.cpp">
+      <Filter>00.Study\9. BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="1926_2.cpp">
+      <Filter>00.Study\9. BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="2178.cpp">
+      <Filter>00.Study\9. BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="2178_2.cpp">
+      <Filter>00.Study\9. BFS</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="00.Study">
@@ -302,6 +312,9 @@
     </Filter>
     <Filter Include="00.Study\2. 기초코드작성요령2">
       <UniqueIdentifier>{c15bc8f6-d73d-42b6-903b-b402ec67a4fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00.Study\9. BFS">
+      <UniqueIdentifier>{663d7659-372f-436e-af9a-1b700fe1647b}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
