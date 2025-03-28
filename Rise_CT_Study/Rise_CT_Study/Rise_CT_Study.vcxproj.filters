@@ -69,8 +69,6 @@
     <ClCompile Include="18258.cpp" />
     <ClCompile Include="1874.cpp" />
     <ClCompile Include="2164.cpp" />
-    <ClCompile Include="2440.cpp" />
-    <ClCompile Include="2441.cpp" />
     <ClCompile Include="2443.cpp" />
     <ClCompile Include="2493.cpp" />
     <ClCompile Include="2504.cpp" />
@@ -293,6 +291,21 @@
     </ClCompile>
     <ClCompile Include="4179_2.cpp">
       <Filter>00.Study\9. BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="2439.cpp">
+      <Filter>00.Study\2. 기초코드작성요령2</Filter>
+    </ClCompile>
+    <ClCompile Include="2440_2.cpp">
+      <Filter>00.Study\2. 기초코드작성요령2</Filter>
+    </ClCompile>
+    <ClCompile Include="2440.cpp">
+      <Filter>00.Study\2. 기초코드작성요령2</Filter>
+    </ClCompile>
+    <ClCompile Include="2441.cpp">
+      <Filter>00.Study\2. 기초코드작성요령2</Filter>
+    </ClCompile>
+    <ClCompile Include="2441_2.cpp">
+      <Filter>00.Study\2. 기초코드작성요령2</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
