@@ -37,16 +37,16 @@ int main()
 	queue<pair<int, int> > Q1;
 	queue<pair<int, int> > Q2;
 
-	for (int i = 0; i < R; i++) 
+	for (int i = 0; i < R; i++)
 	{
-		for (int j = 0; j < C; j++) 
+		for (int j = 0; j < C; j++)
 		{
-			if (maze[i][j] == 'F') 
+			if (maze[i][j] == 'F')
 			{
 				Q1.push({ i,j });
 				fireMove[i][j] = 0;
 			}
-			if (maze[i][j] == 'J') 
+			if (maze[i][j] == 'J')
 			{
 				Q2.push({ i,j });
 				charMove[i][j] = 0;
@@ -55,12 +55,12 @@ int main()
 	}
 
 
-	while (!Q1.empty()) 
+	while (!Q1.empty())
 	{
-		auto cur = Q1.front(); 
+		auto cur = Q1.front();
 		Q1.pop();
 
-		for (int dir = 0; dir < 4; dir++) 
+		for (int dir = 0; dir < 4; dir++)
 		{
 			int nx = cur.X + dx[dir];
 			int ny = cur.Y + dy[dir];

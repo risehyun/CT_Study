@@ -77,7 +77,6 @@
     <ClCompile Include="3015.cpp" />
     <ClCompile Include="3273.cpp" />
     <ClCompile Include="3986.cpp" />
-    <ClCompile Include="4179.cpp" />
     <ClCompile Include="4949.cpp" />
     <ClCompile Include="5397.cpp" />
     <ClCompile Include="5427.cpp" />
@@ -86,7 +85,6 @@
     <ClCompile Include="6549.cpp" />
     <ClCompile Include="7562.cpp" />
     <ClCompile Include="7569.cpp" />
-    <ClCompile Include="7576.cpp" />
     <ClCompile Include="9012.cpp" />
     <ClCompile Include="array_test.cpp" />
     <ClCompile Include="CH3_1.cpp" />
@@ -279,6 +277,21 @@
       <Filter>00.Study\9. BFS</Filter>
     </ClCompile>
     <ClCompile Include="2178_2.cpp">
+      <Filter>00.Study\9. BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="2438.cpp">
+      <Filter>00.Study\2. 기초코드작성요령2</Filter>
+    </ClCompile>
+    <ClCompile Include="7576.cpp">
+      <Filter>00.Study\9. BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="7576_2.cpp">
+      <Filter>00.Study\9. BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="4179.cpp">
+      <Filter>00.Study\9. BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="4179_2.cpp">
       <Filter>00.Study\9. BFS</Filter>
     </ClCompile>
   </ItemGroup>
