@@ -1,47 +1,42 @@
 #include <iostream>
 #include <queue>
+#include <vector>
+
 using namespace std;
 
-#define X first
-#define Y second
+const int MAX = 100001; // 최대 범위 설정
 
-int dist[100002];
-int n, k;
+int bfs(int start, int target) {
+    vector<int> visited(MAX, -1); // 방문 체크와 시간을 동시에 저장
+    queue<int> q;
 
-int main(void) 
-{
-    ios::sync_with_stdio(0);
-    cin.tie(0);
+    visited[start] = 0;
+    q.push(start);
 
-    cin >> n >> k;
+    while (!q.empty()) {
+        int curr = q.front();
+        q.pop();
 
-    fill(dist, dist + 100001, -1);
-    dist[n] = 0;
-    queue<int> Q;
+        if (curr == target) {
+            return visited[curr];
+        }
 
-    Q.push(n);
-
-    while (dist[k] == -1) 
-    {
-        int cur = Q.front(); 
-        Q.pop();
-
-        for (int nxt : {cur - 1, cur + 1, 2 * cur})
-        {
-            if (nxt < 0 || nxt > 100000)
-            {
-                continue;
+        // 이동 가능한 세 가지 경우
+        for (int next : {curr - 1, curr + 1, curr * 2}) {
+            if (next >= 0 && next < MAX && visited[next] == -1) {
+                visited[next] = visited[curr] + 1;
+                q.push(next);
             }
-            if (dist[nxt] != -1)
-            {
-                continue;
-            }
-            dist[nxt] = dist[cur] + 1;
-            Q.push(nxt);
         }
     }
+    return -1; // 도달 불가능한 경우 (문제 조건상 나올 일 없음)
+}
 
-    std::cout << dist[k];
+int main() 
+{
+    int N, K;
+    cin >> N >> K;
 
+    cout << bfs(N, K) << endl;
     return 0;
 }

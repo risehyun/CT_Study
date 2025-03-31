@@ -2,7 +2,6 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <ClCompile Include="10026.cpp" />
-    <ClCompile Include="1012.cpp" />
     <ClCompile Include="1021.cpp" />
     <ClCompile Include="1074.cpp" />
     <ClCompile Include="10773.cpp" />
@@ -64,7 +63,6 @@
     <ClCompile Include="CH3_3_6.cpp" />
     <ClCompile Include="CH3_4.cpp" />
     <ClCompile Include="EX10_1.cpp" />
-    <ClCompile Include="1697.cpp" />
     <ClCompile Include="17298.cpp" />
     <ClCompile Include="18258.cpp" />
     <ClCompile Include="1874.cpp" />
@@ -306,6 +304,18 @@
     </ClCompile>
     <ClCompile Include="2441_2.cpp">
       <Filter>00.Study\2. 기초코드작성요령2</Filter>
+    </ClCompile>
+    <ClCompile Include="1697.cpp">
+      <Filter>00.Study\9. BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="1697_2.cpp">
+      <Filter>00.Study\9. BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="1012.cpp">
+      <Filter>00.Study\9. BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="1012_2.cpp">
+      <Filter>00.Study\9. BFS</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
