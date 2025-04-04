@@ -74,7 +74,6 @@
     <ClCompile Include="3986.cpp" />
     <ClCompile Include="4949.cpp" />
     <ClCompile Include="5397.cpp" />
-    <ClCompile Include="5427.cpp" />
     <ClCompile Include="5430.cpp" />
     <ClCompile Include="6198.cpp" />
     <ClCompile Include="6549.cpp" />
@@ -325,6 +324,12 @@
       <Filter>00.Study\9. BFS</Filter>
     </ClCompile>
     <ClCompile Include="7569_2.cpp">
+      <Filter>00.Study\9. BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="5427.cpp">
+      <Filter>00.Study\9. BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="5427_2.cpp">
       <Filter>00.Study\9. BFS</Filter>
     </ClCompile>
   </ItemGroup>
